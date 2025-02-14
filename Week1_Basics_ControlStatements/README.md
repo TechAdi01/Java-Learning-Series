@@ -55,13 +55,6 @@ This set focuses on control statements such as loops and conditionals, covering 
 
 ---
 
-### Next Steps:
-
-- Complete README documentation for further practical sets.
-- Upload source code to GitHub with structured directory management.
-
----
-
 📌 **Prepared by:** Aditi Patel\
 📅 **Date:** 11/2/2025
 
